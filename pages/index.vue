@@ -2,6 +2,9 @@
 useHead({
     title: "Home",
 });
+definePageMeta({
+  layout: 'empty'
+})
 </script>
 
 <template>
